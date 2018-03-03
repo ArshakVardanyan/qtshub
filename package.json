@@ -1,5 +1,5 @@
 {
-  "name": "node-js-getting-started",
+  "name": "qtshub",
   "version": "0.3.0",
   "description": "A sample Node.js app using Express 4",
   "engines": {
@@ -20,11 +20,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/ArshakVardanyan/qtshub.git"
   },
   "keywords": [
     "node",
-    "heroku",
+    "qtshub",
     "express"
   ],
   "license": "MIT"
